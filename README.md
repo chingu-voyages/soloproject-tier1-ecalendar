@@ -24,25 +24,25 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
 
 - Calendar portion to have:  
 
- Title and Current year in header  
+  Title and Current year in header  
 
- Current month between previous and upcoming month  
+  Current month between previous and upcoming month  
 
- Calendar dates of the month with display of previous month’s last dates if first day of current month does not start on a Sunday  
+  Calendar dates of the month with display of previous month’s last dates if first day of current month does not start on a Sunday  
 
- Arrows bordering the calendar dates  
+  Arrows bordering the calendar dates  
 
 - Event potion to have
 
- Current day of the week displayed  
+  Current day of the week displayed  
 
- Current month and date (numerical) displayed  
+  Current month and date (numerical) displayed  
 
- List of Events with corresponding date of month divided by a vertical bar  
+  List of Events with corresponding date of month divided by a vertical bar  
 
- Add event button at bottom 
+  Add event button at bottom 
 
- At least **3** demo events in the event panel portion of the project 
+  *At least* **3** demo events in the event panel portion of the project 
 
 - A modal form activated via button click that floats above the content
 
@@ -50,13 +50,13 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
 
 - Colors should match the theming outlined in the demo page 
 
- Previous month dates greyed out  `#696868`
+  Previous month dates greyed out  `#696868`
 
- Current month weekend dates and weekdays separate colors `#7cc0c9` `#839395`
+  Current month weekend dates and weekdays separate colors `#7cc0c9` `#839395`
 
- Current date highlighted in a circular div `#26B9CC`
+  Current date highlighted in a circular div `#26B9CC`
 
- Gradient over background image (provided in assets folder)
+  Gradient over background image (provided in assets folder)
  
  ```css
  linear-gradient: linear-gradient(180deg, rgba(209, 226, 188, 0.9) 0%, rgba(255, 255, 255, 0) 100%), rgba(160, 236, 247, 0.5);
@@ -66,13 +66,7 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
 
 - Invisible scroll bar for event section
 
-- Utilize the following fonts in the calendar free for use from Google Fonts
- 
- Montserrat
-
- Open Sans
-
- Open Sans Condensed
+- Utilize the following fonts in the calendar free for use from Google Fonts - *Montserrat, Open Sans* and *Open Sans Condensed*
 
 *Functionality*
 
@@ -112,7 +106,7 @@ Modal Form:
 
 ## Example
 
-*The static images below are used to allow for a clear view of both the calendar and modal form
+*The static images below are used to allow for a clear view of both the calendar and modal form*
 
 ![landing screenshot](./assets/landing-view.png)
 
