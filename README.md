@@ -1,6 +1,6 @@
 # Chingu Voyage Pre-Work Solo Project (Tier 1): *eCalendar*
 
-![demo of tier 1 site](./assets/eCal-demo.gif) 
+![demo of tier 1 site](./assets/demo.gif) 
 
 ## Overview 
 
