@@ -36,7 +36,7 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
   - [ ]  List of Events with corresponding date of month divided by a vertical bar  
   - [ ]  Add event button at bottom 
 
-  *At least* **3** demo events in the event panel portion of the project 
+- [ ] *At least* **3** demo events in the event panel portion of the project 
 
 - [ ] A modal form activated via button click that floats above the content
 
@@ -58,7 +58,7 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
 - [ ] Invisible scroll bar for event section
 - [ ] Utilize the following fonts in the calendar free for use from Google Fonts - *Montserrat, Open Sans* and *Open Sans Condensed*  
       Hints: These fonts are used with multiple font-weights and italics
-- [ ] Event list should have at minimum three demo events hardcoded in with the date on the left of the horizontal bar and the event name on the right
+- [ ] Event list should have at minimum three demo events hardcoded in with the date on the *left of the horizontal bar* and the event name *on the right*
 
 *Functionality*
 
