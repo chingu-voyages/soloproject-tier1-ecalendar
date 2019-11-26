@@ -40,7 +40,7 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
 
 - [ ] A modal form activated via button click that floats above the content
 
-*Style*
+*Styling:*
 
 - [ ] Colors should match the theming outlined in the demo page 
 
