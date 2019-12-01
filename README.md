@@ -27,9 +27,9 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
   - [ ] Title and Current year in header  
   - [ ] Current month between previous and upcoming month 
   - [ ] Calendar dates of the month with display of previous month’s last dates if first day of current month does not start on a Sunday 
-  - [ ] Arrows bordering the calendar dates  
+  - [ ] Arrows bordering the body of the calendar 
 
-- [ ] Event portion to have
+- [ ] Event portion to have.
 
   - [ ]  Current day of the week displayed  
   - [ ]  Current month and date (numerical) displayed  
@@ -73,8 +73,7 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
 *Modal Form:*
 
 - [ ] Be able to close form without submission and have form close on submission of event information
-- [ ] Have modal displayed as shown in the demo
-- [ ] Have at least the event name and dates as required
+- [ ] Have modal displayed as shown in the demo. This form is **not** expected to be functional.
 - [ ] Is hidden when not in use
 
 
